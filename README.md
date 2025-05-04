@@ -27,8 +27,7 @@ This project aims to develop a classification model to predict credit risk using
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/kairosilveira/credit_risk_prediction.git
-   cd credit_risk_prediction
+   git clone https://github.com/Sgul112/credit-risk-prediction/tree/main
    ```
 
 2. **Install Dependencies:**
